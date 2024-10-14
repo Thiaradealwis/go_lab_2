@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="workingVisualise">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/content/workingVisualise.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
